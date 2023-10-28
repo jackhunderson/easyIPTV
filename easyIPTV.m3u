@@ -261,5 +261,3 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftMTumvPZv21S
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rSvffyAdzur3HowMPcq00XqMfrAKO2tuvowK5vCennAKjxuvrktvmWvK5pvLy2y3PfEMvUzhbwA0yZtLv0nMvfzfzrBLj1tvC5Afbumd0&auth=cc4b107b4fe4fc35fca128a2fa20770ead0b5eaa391ebdea76d16df39e3ebcb4
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" tvg-chno="" group-title="Kids",Hungama TV
 http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdZb3tcd/Eurosports.png" tvg-chno="" group-title="Sports - English",WWE Sports
-http://tv.cloudcdn.me:80/live.ts?channelId=4244&uid=9949&deviceMac=00:1A:79:91:40:14
